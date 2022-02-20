@@ -24,4 +24,6 @@ public class FeeSubscriber {
         System.out.println("Average total fee is "+ average);
     }
 
+
+
 }

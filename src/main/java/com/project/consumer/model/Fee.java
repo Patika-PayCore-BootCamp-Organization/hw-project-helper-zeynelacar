@@ -19,7 +19,7 @@ public class Fee implements Serializable {
     private Integer gas_bill;
     private Integer water_bill;
     private Integer dues;
-    private Integer flat_id;
+    private Flat flat_id;
     private Integer totalFee;
 
 }
